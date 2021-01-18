@@ -6,3 +6,5 @@ Run with Node 12, npm 6, and yarn 1. Other versions not tested.
 
 
 Run `yarn install` to install dependencies.
+
+Run `node server.js` to run the server.
